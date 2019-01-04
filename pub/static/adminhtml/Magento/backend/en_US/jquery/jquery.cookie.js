@@ -1,1 +1,0 @@
-/var/www/html/shubham/lib/web/jquery/jquery.cookie.js

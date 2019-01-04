@@ -1,0 +1,1 @@
+/var/www/html/shubham/app/code/Magento/Wishlist/view/frontend/web/js/view/wishlist.js

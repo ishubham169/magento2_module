@@ -231,3 +231,22 @@
 [2019-01-04 07:13:17] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
 [2019-01-04 07:13:17] main.INFO: Add of item with id Magento_Braintree::settlement_report was processed [] []
 [2019-01-04 07:13:17] main.INFO: Remove on item with id Magento_Backend::setup_wizard was processed [] []
+[2019-01-04 08:13:58] main.ERROR: Please upgrade your database: Run "bin/magento setup:upgrade" from the Magento root directory.
+The following modules are outdated:
+Dentalkart_Module schema: current version - none, required version - 1.0.0
+Dentalkart_Module data: current version - none, required version - 1.0.0 [] []
+[2019-01-04 09:01:16] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:03:12] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:03:25] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:05:55] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:06:30] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:09:37] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:13:22] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:14:51] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:26:07] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:30:16] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:33:47] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:57:40] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:59:53] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 10:05:27] main.ERROR: Invalid return type [] []
+[2019-01-04 10:05:29] main.ERROR: Invalid return type [] []
