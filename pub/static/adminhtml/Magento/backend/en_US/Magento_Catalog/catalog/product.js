@@ -1,0 +1,1 @@
+/var/www/html/shubham/app/code/Magento/Catalog/view/adminhtml/web/catalog/product.js
