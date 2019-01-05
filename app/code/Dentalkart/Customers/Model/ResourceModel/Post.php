@@ -14,7 +14,7 @@ class Post extends \Magento\Framework\Model\ResourceModel\Db\AbstractDb
 
 	protected function _construct()
 	{
-		$this->_init('dentalkart_customers_post', 'post_id');
+		$this->_init('dentalkart_customers_post', 'id');
 	}
 
 }
