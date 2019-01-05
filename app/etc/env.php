@@ -30,5 +30,8 @@ return [
     ],
     'install' => [
         'date' => 'Fri, 04 Jan 2019 07:09:53 +0000'
+    ],
+    'cache_types' => [
+        'compiled_config' => 1
     ]
 ];

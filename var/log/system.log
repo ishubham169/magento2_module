@@ -231,3 +231,39 @@
 [2019-01-04 07:13:17] main.INFO: Add of item with id Magento_Variable::system_variable was processed [] []
 [2019-01-04 07:13:17] main.INFO: Add of item with id Magento_Braintree::settlement_report was processed [] []
 [2019-01-04 07:13:17] main.INFO: Remove on item with id Magento_Backend::setup_wizard was processed [] []
+[2019-01-04 08:13:58] main.ERROR: Please upgrade your database: Run "bin/magento setup:upgrade" from the Magento root directory.
+The following modules are outdated:
+Dentalkart_Module schema: current version - none, required version - 1.0.0
+Dentalkart_Module data: current version - none, required version - 1.0.0 [] []
+[2019-01-04 09:01:16] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:03:12] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:03:25] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:05:55] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:06:30] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:09:37] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:13:22] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:14:51] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:26:07] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:30:16] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:33:47] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:57:40] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 09:59:53] main.CRITICAL: Invalid template file: 'Dentalkart_Module::index.phtml' in module: 'Dentalkart_Module' block's name: 'helloworld_index_index' [] []
+[2019-01-04 10:05:27] main.ERROR: Invalid return type [] []
+[2019-01-04 10:05:29] main.ERROR: Invalid return type [] []
+[2019-01-04 12:06:13] main.CRITICAL: Class Mageplaza\HelloWorld\Model\PostFactory does not exist
+Class Dentalkart\Customers\Controller\Index\Index\Interceptor generation error: The requested class did not generate properly, because the 'generated' directory permission is read-only. If --- after running the 'bin/magento setup:di:compile' CLI command when the 'generated' directory permission is set to write --- the requested class did not generate properly, then you must add the generated class object to the signature of the related construct method, only. [] []
+[2019-01-04 12:06:13] main.ERROR: Class Mageplaza\HelloWorld\Model\PostFactory does not exist
+Class Dentalkart\Customers\Controller\Index\Index\Interceptor generation error: The requested class did not generate properly, because the 'generated' directory permission is read-only. If --- after running the 'bin/magento setup:di:compile' CLI command when the 'generated' directory permission is set to write --- the requested class did not generate properly, then you must add the generated class object to the signature of the related construct method, only. [] []
+[2019-01-04 12:06:59] main.CRITICAL: Class Mageplaza\HelloWorld\Model\PostFactory does not exist
+Class Dentalkart\Customers\Controller\Index\Index\Interceptor generation error: The requested class did not generate properly, because the 'generated' directory permission is read-only. If --- after running the 'bin/magento setup:di:compile' CLI command when the 'generated' directory permission is set to write --- the requested class did not generate properly, then you must add the generated class object to the signature of the related construct method, only. [] []
+[2019-01-04 12:06:59] main.ERROR: Class Mageplaza\HelloWorld\Model\PostFactory does not exist
+Class Dentalkart\Customers\Controller\Index\Index\Interceptor generation error: The requested class did not generate properly, because the 'generated' directory permission is read-only. If --- after running the 'bin/magento setup:di:compile' CLI command when the 'generated' directory permission is set to write --- the requested class did not generate properly, then you must add the generated class object to the signature of the related construct method, only. [] []
+[2019-01-04 12:35:52] main.ERROR: Notice: Undefined variable: block in /var/www/html/shubham/app/code/Dentalkart/Customers/Controller/Index/Save.php on line 1 [] []
+[2019-01-04 12:40:44] main.ERROR: Notice: Use of undefined constant POST - assumed 'POST' in /var/www/html/shubham/app/code/Dentalkart/Customers/Controller/Index/Save.php on line 1 [] []
+[2019-01-04 12:58:21] main.CRITICAL: Invalid template file: 'Dentalkart_Customers::save_data.phtml' in module: 'Dentalkart_Customers' block's name: 'cust_index_save' [] []
+[2019-01-04 12:58:49] main.CRITICAL: Invalid template file: 'Dentalkart_Customers::save_data.phtml' in module: 'Dentalkart_Customers' block's name: 'cust_index_save' [] []
+[2019-01-04 13:29:15] main.ERROR: Notice: Undefined property: Dentalkart\Customers\Controller\Index\Save\Interceptor::$resultRedirect in /var/www/html/shubham/app/code/Dentalkart/Customers/Controller/Index/Save.php on line 26 [] []
+[2019-01-04 13:33:23] main.ERROR: Notice: Undefined property: Dentalkart\Customers\Controller\Index\Save\Interceptor::$resultRedirect in /var/www/html/shubham/app/code/Dentalkart/Customers/Controller/Index/Save.php on line 28 [] []
+[2019-01-04 13:49:26] main.CRITICAL: Class Dentalkart\Customers\Model\PostFactory does not exist
+Class Dentalkart\Customers\Controller\Index\Index\Interceptor generation error: The requested class did not generate properly, because the 'generated' directory permission is read-only. If --- after running the 'bin/magento setup:di:compile' CLI command when the 'generated' directory permission is set to write --- the requested class did not generate properly, then you must add the generated class object to the signature of the related construct method, only. [] []
+[2019-01-04 13:50:34] main.ERROR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'shubham.data_example' doesn't exist, query was: DESCRIBE `data_example` [] []

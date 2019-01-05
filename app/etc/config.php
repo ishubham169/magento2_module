@@ -1,6 +1,8 @@
 <?php
 return [
     'modules' => [
+        'Dentalkart_Customers' => 1,
+        'Dentalkart_Module' => 1,
         'Magento_Store' => 1,
         'Magento_AdvancedPricingImportExport' => 1,
         'Magento_Directory' => 1,
